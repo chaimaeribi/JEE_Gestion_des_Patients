@@ -1,1 +1,1 @@
-# JEE_Gestion_des_Patients
+# Gestion des patients : Spring MVC, Thymeleaf, Spring Data et Spring Security
